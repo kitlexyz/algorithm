@@ -1,2 +1,2 @@
 # algorithm
-programming quiz, algorithm, data structure
+problem solving, programming quiz, algorithm, data structure
